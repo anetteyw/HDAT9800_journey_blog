@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-06-06-this-is-so-cool/",
+    "title": "This is so cool!",
+    "description": "I had a blogspot few years ago to talk about Korean stuffs.\nNowadays, I made a blog to be a journal of my HDAT9800 journey.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\nBlah Blah\nYes!\n\n\n\n",
+    "preview": {},
+    "last_modified": "2024-06-06T16:42:16+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",

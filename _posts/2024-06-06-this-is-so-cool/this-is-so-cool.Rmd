@@ -1,0 +1,19 @@
+---
+title: "This is so cool!"
+description: |
+  I had a blogspot few years ago to talk about Korean stuffs.
+  Nowadays, I made a blog to be a journal of my HDAT9800 journey.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 06-06-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Blah Blah
+
+Yes!
